@@ -1,9 +1,9 @@
-@article{DBLP:journals/datamine/YousufK20,
-  author    = {Muhammad Irfan Yousuf and Suhyun Kim},
-  title     = {Guided Sampling for Large Graphs},
-  journal   = {Data Min. Knowl. Discov.},
-  volume    = {34},
-  number    = {4},
-  pages     = {905--948},
-  year      = {2020}
+@article{REPO-390,
+    author = "Yousuf, Muhammad Irfan and Kim, Suhyun",
+    journal = "Data Min. Knowl. Discov.",
+    number = "4",
+    pages = "905--948",
+    title = "{Guided Sampling for Large Graphs}",
+    volume = "34",
+    year = "2020"
 }
