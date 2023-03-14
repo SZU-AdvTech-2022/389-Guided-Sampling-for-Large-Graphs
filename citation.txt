@@ -1,0 +1,9 @@
+@article{REPO-389,
+    author = "Yousuf, Muhammad Irfan and Kim, Suhyun",
+    journal = "Data Min. Knowl. Discov.",
+    number = "4",
+    pages = "905--948",
+    title = "{Guided Sampling for Large Graphs}",
+    volume = "34",
+    year = "2020"
+}
